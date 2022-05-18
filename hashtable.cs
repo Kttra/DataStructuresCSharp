@@ -34,8 +34,6 @@ namespace HashTableProject
 				userInfoList.Add(new UserInfo(i, "user" + i));
 			}
 
-
-
 			//Removing element 0 from hashtable
 			//First check if the key exists
 			if (userInfoHash.ContainsKey(0))
