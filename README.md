@@ -51,6 +51,19 @@ A Binary Search Tree or a BST is a rooted binary tree data structure with intern
 <img src="https://user-images.githubusercontent.com/100814612/164086536-e2183329-56ca-4cd4-be2e-554657034a1a.png"><img>
 </p>
 
+**BST Traversals**
+------------
+Depth First Traversals: 
+(a) Inorder (Left, Root, Right) : 4 2 5 1 3 
+(b) Preorder (Root, Left, Right) : 1 2 4 5 3 
+(c) Postorder (Left, Right, Root) : 4 5 2 3 1
+Breadth-First or Level Order Traversal: 1 2 3 4 5 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100814612/168935509-110879f5-02dd-457d-a59a-fb6fd4443682.png"><img>
+</p>
+
+
 **Hashtable**
 -----------------
 Hashtable stores key/value pair in hash table. In Hashtable we specify an object that is used as a key, and the value we want to associate to that key. The key is then hashed, and the resulting hash code is used as the index at which the value is stored within the table.
