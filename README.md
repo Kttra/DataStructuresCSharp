@@ -47,10 +47,20 @@ A Binary Search Tree or a BST is a rooted binary tree data structure with intern
 - The value of the key of the right sub-tree is greater than or equal to the value of its parent (root) node's key.
 - The left child node has a value smaller than the parent node, and the child node in the right contains a value greater than the parent node.
 
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100814612/164086536-e2183329-56ca-4cd4-be2e-554657034a1a.png"><img>
 </p>
+
+**Hashtable**
+-----------------
+Hashtable stores key/value pair in hash table. In Hashtable we specify an object that is used as a key, and the value we want to associate to that key. The key is then hashed, and the resulting hash code is used as the index at which the value is stored within the table.
+
+Key → Value Lookup
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100814612/168933577-90d84edf-3f98-4935-b0b1-1f89d4a2d577.png" width = "600", height = "340"><img>
+</p>
+
 
 **Other Related Projects**
 ----------------
